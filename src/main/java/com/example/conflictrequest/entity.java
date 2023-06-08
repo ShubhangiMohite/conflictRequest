@@ -1,6 +1,6 @@
 package com.example.conflictrequest;
 
 public class entity {
-    private Integer id;
-    private String name;
+    private int  idStudent;
+    private String fullName;
 }
